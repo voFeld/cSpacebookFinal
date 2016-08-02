@@ -1,0 +1,24 @@
+.comments-container {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.fa {
+  font-size: 2rem;
+}
+
+.remove {
+  color: red;
+}
+
+.post {
+  font-size: 1.6rem;
+}
+
+.add-comment,
+.remove-comment {
+  margin-left: 1.5rem;
+}
